@@ -1,0 +1,19 @@
+{
+  "name": "Lesson 13 Practice 2 - Recording - Resource",
+  "description": "Project",
+  "main": "Main.xaml",
+  "dependencies": {},
+  "schemaVersion": "3.1",
+  "studioVersion": "18.2.3.0",
+  "projectVersion": "1.0.6792.20677",
+  "runtimeOptions": {
+    "loginToConsole": true,
+    "resolutionWidth": 0,
+    "resolutionHeight": 0,
+    "resolutionDepth": 0,
+    "excludedLoggedData": [
+      "Private:*",
+      "*password*"
+    ]
+  }
+}
