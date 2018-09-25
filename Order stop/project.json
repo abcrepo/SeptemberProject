@@ -1,0 +1,14 @@
+{
+  "name": "Order stop",
+  "description": "Blank Project",
+  "main": "Main.xaml",
+  "dependencies": {},
+  "excludedData": [
+    "Private:*",
+    "*password*"
+  ],
+  "toolVersion": "18.2",
+  "projectVersion": "1.0.6831.19790",
+  "packOptions": {},
+  "runtimeOptions": {}
+}
